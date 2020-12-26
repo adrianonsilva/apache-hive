@@ -64,8 +64,8 @@ sudo nano ~/.bashrc</br>
 export HIVE_HOME=/usr/local/hive</br>
 export PATH=$PATH:$HIVE_HOME/bin</br>
 export CLASSPATH=$CLASSPATH:/usr/local/hive/lib/*</br>
-#mysql jdbc driver</br>
 
+#mysql jdbc driver</br>
 export CLASSPATH=$CLASSPATH:/usr/share/java/mysql-connector-java-8.0.22.jar</br>
 
 source ~/.bashrc</br>
@@ -203,7 +203,7 @@ Vale destacar,
 
 /bigdata/hive/warehouse/ (pasta criado no hdfs)</br>
 test (tabela criada no hive)</br>
-pais.txt (arqiovo carregado)</br>
+pais.txt (arquivo carregado)</br>
 
 <a id="link4"></a>
 ## 4. Links
